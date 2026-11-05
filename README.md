@@ -1,4 +1,4 @@
-# Walmart USA: Advanced Software Engineering Enterprise Simulation
+# Walmart Global Tech USA: Advanced Software Engineering Enterprise Simulation
 
 This repository contains production-ready implementations and architectural solutions for the Walmart USA Advanced Software Engineering Job Simulation via Forage. 
 
